@@ -70,6 +70,3 @@ Pokemon-Web-App/
 
 # 🤝 Kontribusi
 Kontribusi sangat diterima! Jika Anda memiliki ide atau perbaikan, silakan fork repositori ini dan buat pull request.
-
-# 📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License. https://github.com/azis7797/Pokemon-Web-App
