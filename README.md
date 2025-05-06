@@ -12,7 +12,7 @@ Penggunaan Vite untuk bundling dan hot module replacement
 
 Struktur proyek yang modular dan mudah dikembangkan
 
-🛠️ Teknologi yang Digunakan
+# 🛠️ Teknologi yang Digunakan
 React
 
 Vite
@@ -21,7 +21,7 @@ ESLint
 
 PokeAPI
 
-📦 Instalasi
+# 📦 Instalasi
 Klon repositori ini:
 
 bash
@@ -40,7 +40,7 @@ bash
 Salin
 Edit
 npm install
-🧪 Menjalankan Aplikasi
+# 🧪 Menjalankan Aplikasi
 Untuk menjalankan aplikasi dalam mode pengembangan:
 
 bash
@@ -49,7 +49,7 @@ Edit
 npm run dev
 Aplikasi akan berjalan di http://localhost:5173/ secara default.
 
-📁 Struktur Proyek
+# 📁 Struktur Proyek
 plaintext
 Salin
 Edit
@@ -64,11 +64,12 @@ Pokemon-Web-App/
 ├── package.json        # Konfigurasi npm
 ├── vite.config.js      # Konfigurasi Vite
 └── README.md           # Dokumentasi proyek
-📸 Cuplikan Layar
+# 📸 Cuplikan Layar
+![dw](https://github.com/user-attachments/assets/6c85025d-5d45-4103-a4bf-66660b739bd2)
 
 
-🤝 Kontribusi
+# 🤝 Kontribusi
 Kontribusi sangat diterima! Jika Anda memiliki ide atau perbaikan, silakan fork repositori ini dan buat pull request.
 
-📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+# 📄 Lisensi
+Proyek ini dilisensikan di bawah MIT License. https://github.com/azis7797/Pokemon-Web-App
